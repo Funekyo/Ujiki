@@ -1,16 +1,17 @@
 # 有時記 - Ujiki
+*A quiet study of Dōgen's Zen poetry using AI tools for ethical translation, philological clarity, and structured creative interpretation.*
 
-![image](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
+![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
 
 ***uji*** - *"time is being", "being is time", "for a while"*
 
 ***ujiki*** - *"a record of time being for a while"*
 
-**This project attempts to chronicle the usefulness & challenges of using AI tools for a very humane project - namely, translating Zen Master Dōgen's poetry.**
+**This project explores how AI tools can be used with epistemic clarity and ethical intention to work with the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering—not as automation, but as a means to bring ancient stillness into the turmoil of the now.**
 
-An attempt to slow down and have an excuse to talk about the moonlight, while hoping for a brighter future for humans with machines and every other sentient being.
+I treat AI not as a shortcut but as a lens, testing how it can support human understanding, poetic presence, and creative work.
 
-IN addition to poetic musics, tThe scope includes translation variants, linguistic analysis and structured data output.
+In addition to poetic musings, the scope includes translation variants, linguistic analysis and structured data output.
 
 Applications include reference material, learning tools and automation frameworks such as spreadsheets, flashcards, or code.  
 
@@ -29,10 +30,12 @@ Each entry includes:
 - Deviances from contemporary translations
 - Notes on ambiguity and poetics
 
-Kindly see the meta articles explaining:
+## documentation
 
-- Methodology
-- AI & Ethics
+Additional documentation includes:
+
+- [Methodology](link) — AI toolchain, prompt design, and workflow
+- [AI & Ethics](link) — notes on responsible use, model framing, and epistemic boundaries
 
 ---
 
