@@ -7,7 +7,7 @@
 
 ***ujiki*** - *"a record of time being for a while"*
 
-**This project explores how AI tools can be used with epistemic clarity and ethical intention to work with the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering—not as automation, but as a means to bring ancient stillness into the turmoil of the now.**
+**This project explores how AI tools can be used with epistemic clarity and ethical intention to analyse and re-imagine the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering—not as automation, but as a means to bring ancient stillness into the turmoil of the now.**
 
 I treat AI not as a shortcut but as a lens, testing how it can support human understanding, poetic presence, and creative work.
 
@@ -34,7 +34,7 @@ Each entry includes:
 
 ## 📚 documentation
 
-- [Uji](link) — a temporal definition and breakdown of Dōgen’s concept of being-time, its uses in the fascicle, and its relevance to poetic interpretation 
+- [Uji](link) — a temporal definition of Dōgen’s concept of being-time
 - [Dōgen & His Work](link) — a brief overview of Dōgen’s context, language use, and poetic fragments across his writings  
 - [Basics of Zen Buddhism](link) — essential terms, concepts, and doctrinal background relevant to Dōgen’s verse and its reading  
 - [Methodology](link) — AI toolchain, prompt design, and workflow  
