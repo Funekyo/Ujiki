@@ -7,15 +7,19 @@
 
 ***ujiki*** - *"a record of time being for a while"*
 
-**This project explores how AI tools can be used with epistemic clarity and ethical intention to analyse and re-imagine the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering—not as automation, but as a means to bring ancient stillness into the turmoil of the now.**
+---
 
-I treat AI not as a shortcut but as a lens, testing how it can support human understanding, poetic presence, and creative work.
+**This project explores how AI tools can be used ethically and with epistemic clarity to analyse and reimagine the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering—not as automation, but as a means to bring ancient stillness into the turmoil of the now.**
 
-AI-generated responses are compared with human references to observe convergence and divergence, merging output into poetry that resonate with the Dharma.
+I treat AI as an automation tool for structural tasks, but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
-In addition to poetic musings, the scope includes linguistic analysis, translation choices, and structured data output. You will als find meta-articles exploring Dōgen’s thought, Zen Buddhism, and translation practice.
+AI-generated responses are compared with human references to observe convergence and divergence, merging output into poetry that resonates with the Dharma.
 
-Applications include reference material, learning tools, and automation frameworks such as spreadsheets, flashcards, or code.
+Automation is reserved for trivial structure and applications, which include reference material, learning tools, and automation frameworks such as spreadsheets, flashcards, or code. 
+
+Beyond structural tasks, AI is treated as a co-contributor: a way to explore semantic space through reflection and response, grounded in the data of collective human language.
+
+In addition to poetic musings, the scope includes linguistic analysis, translation choices, and structured data output. You will also find meta-articles exploring Dōgen’s thought, Zen Buddhism, and translation practice.
 
 Each poem becomes a site of failure, recursion, and presence.  
 
