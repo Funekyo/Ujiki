@@ -17,7 +17,7 @@ I treat AI as an automation tool for structural tasks (reference lists, flashcar
 
 AI-generated responses are compared with human references to a point beyond redundancy, to observe convergence and divergence, finally merging all data into poetry that longs for the Dharma.
 
-In addition to poetic musings, the scope includes linguistic analysis, translation process, and structured data output. You will also find meta-articles exploring Dōgen’s thought, Zen Buddhism, and ethics of AI.
+In addition to poetic musings, the scope includes linguistic analysis, translation process, and structured data output. You will also find meta-articles exploring Dōgen, Zen Buddhism, and ethics of AI.
 
 Each poem becomes a site of whimsical failure—recursive and temporal.  
 
