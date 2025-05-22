@@ -36,11 +36,11 @@ Each entry includes:
 
 ## 📚 documentation
 
-- [Methodology](link) — legacy reference materials, AI toolchain, prompt design, and workflow  
-- [Uji](link) — a temporal definition of Dōgen’s concept of being-time
-- [Dōgen & His Work](link) — an overview of Dōgen’s life and work
-- [Basics of Zen Buddhism](link) — essential terms, concepts, and doctrinal background
-- [AI & Ethics](link) — notes on responsible use, model framing, and epistemic boundaries
+- [Methodology](https://github.com/Funekyo/Ujiki/blob/main/Documents/Methodology) — legacy reference materials, AI toolchain, prompt design, and workflow  
+- [Concept of Uji](https://github.com/Funekyo/Ujiki/blob/main/Documents/Concept%20of%20Uji) — a temporal definition of Dōgen’s concept of being-time
+- [About Eihei Zenji Dōgen](https://github.com/Funekyo/Ujiki/blob/main/Documents/About%20Eihei%20Zenji%20D%C5%8Dgen) — an overview of Dōgen’s life and work
+- [Basics of Zen Buddhism](https://github.com/Funekyo/Ujiki/blob/main/Documents/Basics%20of%20Zen%20Buddhism) — essential terms, concepts, and doctrinal background
+- [AI & Ethics](https://github.com/Funekyo/Ujiki/blob/main/Documents/AI%20%26%20Ethics) — notes on responsible use, model framing, and epistemic boundaries
 
 ---
 
