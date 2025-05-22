@@ -11,13 +11,11 @@
 
 **This project explores how AI tools can be used ethically and with epistemic clarity to analyse and reimagine the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering—not as automation, but as a means to bring ancient stillness into the turmoil of the now.**
 
-I treat AI as an automation tool for structural tasks, but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
+I treat AI as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
+
+AI is treated symbolically as a co-contributor: a way to explore semantic space through reflection and response, grounded in the data of collective human language.
 
 AI-generated responses are compared with human references to observe convergence and divergence, merging output into poetry that resonates with the Dharma.
-
-Automation is reserved for trivial structure and applications, which include reference material, learning tools, and automation frameworks such as spreadsheets, flashcards, or code. 
-
-Beyond structural tasks, AI is treated as a co-contributor: a way to explore semantic space through reflection and response, grounded in the data of collective human language.
 
 In addition to poetic musings, the scope includes linguistic analysis, translation choices, and structured data output. You will also find meta-articles exploring Dōgen’s thought, Zen Buddhism, and translation practice.
 
