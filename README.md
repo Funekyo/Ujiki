@@ -34,12 +34,11 @@ Each entry includes:
 
 ## 📚 documentation
 
+- [Methodology](link) — AI toolchain, prompt design, and workflow  
 - [Uji](link) — a temporal definition of Dōgen’s concept of being-time
 - [Dōgen & His Work](link) — a brief overview of Dōgen’s context, language use, and poetic fragments across his writings  
 - [Basics of Zen Buddhism](link) — essential terms, concepts, and doctrinal background relevant to Dōgen’s verse and its reading  
-- [Methodology](link) — AI toolchain, prompt design, and workflow  
 - [AI & Ethics](link) — notes on responsible use, model framing, and epistemic boundaries
-
 
 ---
 
