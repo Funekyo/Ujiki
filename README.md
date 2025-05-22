@@ -1,5 +1,5 @@
 # 有時記 - Ujiki
-*A curious study of Dōgen's Zen poetry using AI tools for ethical translation, linguistic analysis, and structured creative interpretation.*
+*A curious study of Dōgen's Zen poetry using AI tools for lucid translation, linguistic analysis, and structured creative interpretation.*
 
 ![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
 
