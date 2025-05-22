@@ -15,7 +15,7 @@ I treat AI as an automation tool for structural tasks (reference lists, flashcar
 
 **AI is treated symbolically as a co-contributor:** a way to explore semantic space through reflection and response, grounded in the data of collective human language.
 
-AI-generated responses are compared with human references to a point beyond redundancy, to observe convergence and divergence, finally merging all data into poetry that longs for the Dharma.
+AI-generated responses are compared with human references to a point beyond redundancy, to observe convergence and divergence. Finally, I merge all data into poetry that resonates with the Dharma as I understand it.
 
 In addition to poetic musings, the scope includes linguistic analysis, translation process, and structured data output. You will also find meta-articles exploring Dōgen, Zen Buddhism, and ethics of AI.
 
