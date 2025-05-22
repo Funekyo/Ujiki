@@ -1,14 +1,16 @@
 # 有時記 - Ujiki
 
-***uji*** - time is being - being is time - for a while
+![image](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
 
-***ujiki*** - a record of time-being
+***uji*** - *"time is being", "being is time", "for a while"*
+
+***ujiki*** - *"a record of time being for a while"*
 
 **This project attempts to chronicle the usefulness & challenges of using AI tools for a very humane project - namely, translating Zen Master Dōgen's poetry.**
 
-In the tempest of now, this is an attempt to slow down and have an excuse to talk about the moonlight, while hoping for a brighter future for humans with machines and every other sentient being.
+An attempt to slow down and have an excuse to talk about the moonlight, while hoping for a brighter future for humans with machines and every other sentient being.
 
-The scope includes translation variants, linguistic analysis, structured data output, along with poetic musings.
+IN addition to poetic musics, tThe scope includes translation variants, linguistic analysis and structured data output.
 
 Applications include reference material, learning tools and automation frameworks such as spreadsheets, flashcards, or code.  
 
