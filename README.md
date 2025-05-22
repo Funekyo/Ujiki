@@ -36,6 +36,8 @@ Each entry includes:
 
 ## 📚 documentation
 
+ALL LINKS ARE EMPTY PLACEHOLDERS - For now.
+
 - [Methodology](https://github.com/Funekyo/Ujiki/blob/main/Documents/Methodology) — legacy reference materials, AI toolchain, prompt design, and workflow  
 - [Concept of Uji](https://github.com/Funekyo/Ujiki/blob/main/Documents/Concept%20of%20Uji) — a temporal definition of Dōgen’s concept of being-time
 - [About Eihei Zenji Dōgen](https://github.com/Funekyo/Ujiki/blob/main/Documents/About%20Eihei%20Zenji%20D%C5%8Dgen) — an overview of Dōgen’s life and work
