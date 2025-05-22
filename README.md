@@ -9,7 +9,7 @@
 
 ---
 
-**This project explores how AI tools can be used ethically and with epistemic clarity to analyse and reimagine the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering—not as automation, but as a means to bring ancient stillness into the turmoil of the now.**
+**This project explores how AI tools can be used ethically and with epistemic clarity to analyse and reimagine the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
 
 I treat AI as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
