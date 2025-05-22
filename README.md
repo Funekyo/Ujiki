@@ -1,9 +1,9 @@
 # 有時記 - Ujiki
-*A curious study of Dōgen's Zen poetry using AI tools for ethical translation, philological clarity, and structured creative interpretation.*
+*A curious study of Dōgen's Zen poetry using AI tools for ethical translation, linguistic analysis, and structured creative interpretation.*
 
 ![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
 
-***uji*** - *"time is being", "being is time", "for a while"*
+***uji*** - *"time being", "being time", "for a while"*
 
 ***ujiki*** - *"a record of time being for a while"*
 
@@ -11,35 +11,39 @@
 
 I treat AI not as a shortcut but as a lens, testing how it can support human understanding, poetic presence, and creative work.
 
-In addition to poetic musings, the scope includes translation variants, linguistic analysis and structured data output.
+AI-generated responses are compared with human references to observe convergence and divergence, merging output into poetry that resonate with the Dharma.
 
-Applications include reference material, learning tools and automation frameworks such as spreadsheets, flashcards, or code.  
+In addition to poetic musings, the scope includes linguistic analysis, translation choices, and structured data output. You will als find meta-articles exploring Dōgen’s thought, Zen Buddhism, and translation practice.
+
+Applications include reference material, learning tools, and automation frameworks such as spreadsheets, flashcards, or code.
 
 Each poem becomes a site of failure, recursion, and presence.  
 
 ---
 
-## format
+## 📄 format
 
 Each entry includes:
 
-- The original chinese
-- A metric english offering in rhyme: not definitive, but momentary
+- The original Chinese
+- A metrical English offering in rhyme: not definitive, but momentary
 - A glossary of all characters & compounds
 - Variant renderings via language models
 - Deviances from contemporary translations
 - Notes on ambiguity and poetics
 
-## documentation
+## 📚 documentation
 
-Additional documentation includes:
-
-- [Methodology](link) — AI toolchain, prompt design, and workflow
+- [Uji](link) — a temporal definition and breakdown of Dōgen’s concept of being-time, its uses in the fascicle, and its relevance to poetic interpretation 
+- [Dōgen & His Work](link) — a brief overview of Dōgen’s context, language use, and poetic fragments across his writings  
+- [Basics of Zen Buddhism](link) — essential terms, concepts, and doctrinal background relevant to Dōgen’s verse and its reading  
+- [Methodology](link) — AI toolchain, prompt design, and workflow  
 - [AI & Ethics](link) — notes on responsible use, model framing, and epistemic boundaries
+
 
 ---
 
-## license
+## ⚖️ license
 
 All content is licensed under  
 **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
@@ -51,10 +55,14 @@ No modification or redistribution of altered forms.
 
 ---
 
-## notes
+## 📝 notes
 
-**The project exists as an experiment in attentive work.** No planned expansion beyond the scope of the texts *for now*.  
+Work-in-progress by **[Funekyo](link)**.
 
-**Feedback & company is most welcome.** Feel free to reach me to discuss AI, ethics, Dōgen, poetry & wenwan walnuts.
+**The project exists as an experimental performance art.** No planned expansion beyond the scope of the texts *for now*.  
 
-Looking for supporters. 
+**Feedback & company are most welcome.** Feel free to reach out to discuss AI, ethics, Dōgen, Dhamma poetry & wenwan walnuts.
+
+**Kindly consider supporting** if this project aligns with your interests.
+
+🌸
