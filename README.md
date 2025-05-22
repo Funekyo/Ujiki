@@ -5,7 +5,7 @@
 
 ***uji*** - *"time being", "being time", "for a while"*
 
-***ujiki*** - *"a record of time being for a while"*
+***ujiki*** - *"chronicles of time being for a while"*
 
 ---
 
