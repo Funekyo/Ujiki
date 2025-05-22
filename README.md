@@ -1,5 +1,5 @@
 # 有時記 - Ujiki
-*A curious study of Dōgen's Zen poetry using AI tools for lucid translation, linguistic analysis, and structured creative interpretation.*
+*A curious study of Dōgen's Zen poetry using AI tools for lucid linguistic analysis, translation and creative interpretation.*
 
 ![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
 
@@ -13,7 +13,7 @@
 
 I treat AI as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
-AI is treated symbolically as a co-contributor: a way to explore semantic space through reflection and response, grounded in the data of collective human language.
+**AI is treated symbolically as a co-contributor:** a way to explore semantic space through reflection and response, grounded in the data of collective human language.
 
 AI-generated responses are compared with human references to observe convergence and divergence, merging output into poetry that resonates with the Dharma.
 
