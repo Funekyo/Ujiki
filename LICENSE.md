@@ -8,10 +8,7 @@ You may:
 
 Under the following terms:
 
-- **Attribution**
--  You must give appropriate credit
--  Provide a link to the license.
--  Indicate if changes were made.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
 - **NonCommercial** — You may not use the material for commercial purposes.  
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
@@ -19,4 +16,4 @@ No additional restrictions — You may not apply legal terms or technological me
 
 Full license text: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-© [Your Name or Pseudonym], [Year]
+© Funekyo, 2025
