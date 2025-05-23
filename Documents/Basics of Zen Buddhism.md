@@ -11,7 +11,7 @@ Buddhism is supposed to be simple as that.
 
 Apparently, it isn't. :)
 
---
+---
 
 Buddhism begins as an Indian ascetic's attempt to diagnose and overcome **duḥkha**. That’s where consensus ends.
 
