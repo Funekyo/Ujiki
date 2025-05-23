@@ -9,7 +9,9 @@
 
 ***有時記 ujiki*** - *"chronicles of time being for a while"*
 
-**Welcome! This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation—testing how machines can support precision, ambiguity, and presence in poetic language. The focus is on virtue, translation, grammatical analysis, verbal & visual creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
+**Welcome.** This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation—testing how machines can support precision, ambiguity, and presence in poetic language. 
+
+Through poetry, the focus is on virtue, translation, linguistic analysis, verbal & visual creative rendering and structured data output, as a means to carry ancient stillness into the turmoil of the now.
 
 I treat LLMs as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
@@ -17,7 +19,7 @@ I treat LLMs as an automation tool for structural tasks (reference lists, flashc
 
 AI-generated responses are compared with human references—beyond the point of redundancy—to observe convergence and divergence points. Subsequently, I merge all data into poetry that resonates with the Dharma as I understand it.
 
-In addition to poetic musings, the scope includes linguistic analysis, translation process, and structured data output. You will also find meta-articles exploring Dōgen, Zen Buddhism, and ethics of AI.
+In addition to poetic musings, you will also find meta-articles exploring Dōgen, Zen Buddhism, and ethics of AI, along with the tools I've built. 
 
 Each poem is a site of recursive, temporal, and ever whimsical failure.
 
