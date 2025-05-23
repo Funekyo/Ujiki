@@ -85,7 +85,7 @@ This second position, the **bodhisattva** ideal forms the basis of **Mahāyāna*
 
 ---
 
-*Ch’an* (禪, from *dhyāna*, meaning something like *meditation*) develops in 6th–9th century China as a syncretic movement blending Indian meditation theory, Daoist expression, and native Chinese lineage politics.
+*Ch’an* (禪, from *dhyāna*, often translated into *meditation* or *absorption*) develops in 6th–9th century China as a syncretic movement blending Indian meditation theory, Daoist expression, and native Chinese lineage politics.
 
 It positions itself as a “mind-to-mind transmission outside scriptures,” though its texts and debates are voluminous.
 
