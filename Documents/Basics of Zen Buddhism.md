@@ -85,13 +85,13 @@ This second position, the **bodhisattva** ideal forms the basis of **Mahāyāna*
 
 ---
 
-*Ch’an* (禪, from *dhyāna*, often translated into *meditation* or *absorption*) develops in 6th–9th century China as a syncretic movement blending Indian meditation theory, Daoist expression, and native Chinese lineage politics.
+*Ch’an* (禪, from *dhyāna*, often translated into *meditation* or *absorption*) develops in 6th–9th century China as a syncretic movement blending Buddhist meditation theory, Daoist expression, and native Chinese lineage politics.
 
 It positions itself as a “mind-to-mind transmission outside scriptures,” though its texts and debates are voluminous.
 
 *Zen* (禅, Japanese reading of Ch’an) travels to Japan via monastic networks, where it becomes embedded in court, warrior, and artistic culture.
 
-Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns with a unique synthesis of strict monastic practice and seated meditation, called *Zazen* (坐禅).
+Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns with a unique synthesis of seated meditation called *Zazen* (坐禅) and strict monastic disipline.
 
 ---
 
