@@ -72,7 +72,7 @@ The **arhat** ("worthy one") reaches *nirvāṇa* through direct insight, exting
 
 The **bodhisattva** ("awakening being") vows to attain full Buddhahood not for personal escape, but to guide all beings to liberation.
 
-This ideal reorients the path: instead of *nirvāṇa* as cessation, it emphasizes wisdom and compassion held simultaneously. In some interpretations, the bodhisattva does not seek to exit *saṃsāra*, but to awaken fully *within* it.
+This ideal reorients the path: instead of treating *nirvāṇa* as cessation, it emphasizes wisdom and compassion held simultaneously. In some interpretations, the bodhisattva does not seek to exit *saṃsāra*, but to awaken fully *within* it.
 
 These two ideals are often framed in contrast, but both remain embedded within Buddhist traditions as complementary responses to the question: *what does freedom mean, and for whom is it sought?*
 
