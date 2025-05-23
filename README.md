@@ -6,8 +6,7 @@
 *"I relay to the east the sacred way of elders from the west:*  
 *Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
 *The red dust of the everyday affairs can not reach here by flight*  
-*To my grass hut in the depths of the mountain on this snowy night."*  
-*~Eihei Zenji Dōgen*
+*To my grass hut in the depths of the mountain on this snowy night."*
 
 ---
 
