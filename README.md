@@ -15,7 +15,7 @@ Through poetry, the focus is on virtue, translation, linguistic analysis, verbal
 
 I treat LLMs as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
-**AI is treated symbolically as a co-contributor:** a way to explore semantic space through reflection and response, grounded in the accumulated data of collective human language.
+**AI is treated symbolically as a co-contributor:** a way to explore semantic space through reflection and response, grounded in the dialogue between the user and the accumulated data of collective human language.
 
 AI-generated responses are compared with human references—beyond the point of redundancy—to observe convergence and divergence points. Subsequently, I merge all data into poetry that resonates with the Dharma as I understand it.
 
