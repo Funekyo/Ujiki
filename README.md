@@ -1,7 +1,8 @@
 # 有時記 - Ujiki
 *A personal chronicle of reimagining Dōgen's Zen poetry using legacy and AI tools for linguistic analysis and translation.*
 
-![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
+![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/62796452-9db6-4c23-8bf8-8fb1776b280e)
+
 
 ## 🌸 introduction
 
@@ -11,7 +12,7 @@
 
 **Welcome!** This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation—testing how machines can support precision, ambiguity, and presence in poetic language. 
 
-Through poetry, the focus is on virtue, translation, linguistic analysis, verbal & visual creative rendering and structured data output, as a means to carry ancient stillness into the turmoil of the now.
+Through poetry, the focus is on virtue, linguistic analysis, structured data output, translation, and verbal & visual creative rendering—all for unearthing ancient stillness in the turmoil of the now.
 
 I treat LLMs as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
