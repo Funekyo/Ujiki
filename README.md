@@ -57,12 +57,10 @@ ALL LINKS ARE EMPTY PLACEHOLDERS - For now.
 ## ⚖️ license
 
 All content is licensed under  
-**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
-[View license →](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
+[View license →](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Use is permitted for non-commercial purposes.  
-No derivatives.  
-No modification or redistribution of altered forms.
+You’re welcome to share or adapt this work for non-commercial purposes, as long as attribution is given and new works carry the same license. Please no commercial use or proprietary derivatives.
 
 ---
 
@@ -70,7 +68,7 @@ No modification or redistribution of altered forms.
 
 Work-in-progress by **[Funekyo](link)**.
 
-**The project exists as an experimental performance art.** No planned expansion beyond the scope of the texts *for now*.  
+**The project exists as an experimental performance art.** Time will there where it'll lead us.  
 
 **Feedback & company are most welcome.** Feel free to reach out to discuss AI, ethics, Dōgen, Dhamma poetry & wenwan walnuts.
 
