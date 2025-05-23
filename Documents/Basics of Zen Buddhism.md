@@ -61,7 +61,7 @@ Some present *nirvāṇa* as **epistemic clarity**—the cessation of delusion.
 
 Others, as **metaphysical unbinding**—the cessation of causal formations.
 
-Later schools further collapse dualities: *nirvāṇa* and *saṃsāra* are indistinguishable—but not identical either.
+Later schools further reject dualities: *nirvāṇa* and *saṃsāra* are indistinguishable—but not identical either.
 
 ---
 
