@@ -5,9 +5,9 @@
 
 ## 🌸 introduction
 
-***uji*** - *"time being", "being time", "for a while"*
+***有時 uji*** - *"time being", "being time", "for a while"*
 
-***ujiki*** - *"chronicles of time being for a while"*
+***有時記 ujiki*** - *"chronicles of time being for a while"*
 
 **Welcome! This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation—testing how machines can support precision, ambiguity, and presence in poetic language. The focus is on virtue, translation, grammatical analysis, verbal & visual creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
 
