@@ -47,11 +47,11 @@ What *dharma* means is debated. It may refer to nature's law, phenomenon, or pri
 
 *Anitya* is often collapsed into “everything changes,” which oversimplifies both scope and context.
 
-Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this asymmetry remains unresolved across traditions.
+Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this disctinction remains unresolved across traditions.
 
 ---
 
-*Nirvāṇa* is the express goal of the Buddhist path—but without consensus on what it actually is.
+*Nirvāṇa* is the express goal of the Buddhist path but there is no consensus on what it actually is.
 
 At root, the word is metaphorical: *nir* (“out”) + *vāṇa* (“blowing”)—the extinguishing of a flame.
 
