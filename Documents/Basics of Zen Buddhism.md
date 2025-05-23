@@ -53,34 +53,33 @@ Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*
 
 *Nirvāṇa* is the express goal of the Buddhist path but there is no consensus on what it actually is.
 
-At root, the word is metaphorical: *nir* (“out”) + *vāṇa* (“blowing”)—the extinguishing of a flame.
+The word is metaphorical: *nir* (“out”) + *vāṇa* (“blowing”) refers to the extinguishing of a flame.
 
-Broadly, *nirvāṇa* signifies escape from *saṃsāra*—literally "going around", this existence, the cycle of birth-and-death.
+Broadly, *nirvāṇa* signifies escape from *saṃsāra*—literally "going around", this existence, the cycle of birth-and-death rebirth.
 
-This “extinguishing” is variously framed: extinguishing of craving, becoming, aversion, hatred, delusion. Or all of the above.
+This “extinguishing” is often framed in the negatives: extinguishing of craving, becoming, aversion, hatred, delusion. Or all of the above.
 
-Is it a state? A realization? A cessation? An unconditioned element? Interpretations vary even in early canonical texts.
+Interpretations vary wildly, with common claims describing it is a state, a realization, a cessatio, or a type of special consciousness.
 
 Some present *nirvāṇa* as **epistemic clarity**—the cessation of delusion.  
 
 Others, as **metaphysical unbinding**—the cessation of causal formations.
 
-Later schools further reject dualities: *nirvāṇa* and *saṃsāra* are indistinguishable—but not identical either.
+Some schools reject dualities, claiming that *nirvāṇa* and *saṃsāra* are **indistinguishable**—but **not identical** either.
 
 ---
 
-
-Within Buddhist history, two major archetypes of awakening developed—each representing distinct emphases in path and aim:
+Within Buddhist history, two major archetypes of awakening developed, each representing distinct emphases in path and aim:
 
 The **arhat** ("worthy one") reaches *nirvāṇa* through direct insight, extinguishing craving, and no longer generating karma that binds one to *saṃsāra*. The goal is personal liberation, realized through ethical restraint, meditative absorption, and insight into impermanence, not-self, and suffering.
 
 The **bodhisattva** ("awakening being") vows to attain full Buddhahood not for personal escape, but to guide all beings to liberation.
 
-This ideal reorients the path: instead of treating *nirvāṇa* as cessation, it emphasizes wisdom and compassion held simultaneously. In some interpretations, the bodhisattva does not seek to exit *saṃsāra*, but to awaken fully *within* it.
+This ideal reorients the path. Instead of treating *nirvāṇa* as cessation, it emphasizes wisdom and compassion held simultaneously. In some interpretations, the bodhisattva does not seek to exit *saṃsāra*, but to awaken fully *within* it.
 
 These two ideals are often framed in contrast, but both remain embedded within Buddhist traditions as complementary responses to the question: *what does freedom mean, and for whom is it sought?*
 
-This second position, the **bodhisattva** ideal forms the basis of Zen though.
+This second position, the **bodhisattva** ideal forms the basis of **Mahāyāna** thought, meaning the school of *The Great Vehicle*.
 
 ---
 
@@ -100,11 +99,16 @@ If nothing else, its journey from *kōan* stories to consumer packaging proves t
 
 ---
 
-At its core, *Buddhism* can be seen as a response to the human longing for freedom, filtered through centuries of institutional and industrial repackaging rooted in the insights of an Indian ascetic.
+At its core, *Buddhism* can be seen as a response to the human longing for freedom, rooted in the insights of an Indian ascetic, filtered through centuries of institutional and industrial repackaging.
 
-And yet, despite all this confusion, there exists a great debative culture and a spirit of inquiry within Buddhist communities, and the literature of Buddhism stands as an exceptional—if at times self-contradictory and cryptic—source of inspiration to study behavioral ethics and epistemic deconstruction.
+Yet, despite all this confusion, there exists a great debative culture and a spirit of inquiry within Buddhist communities, and the literature of Buddhism stands as an exceptional—if at times self-contradictory and cryptic—source of inspiration to study behavioral ethics and epistemic deconstruction.
 
 If you were to ask me what **dharma** means, I would quote one of my favourite sūtras:
 
 > *"Just as the great sea has but one taste—the taste of salt—so too does this **dharma** and discipline have but one taste: the taste of freedom."*  
 > — *Udāna 5.5*
+
+Even then, **dharma** is not something to hold on to. It can be considered as a medicine, the aim of which is to free the person from needing to take medicine altogether. 
+
+> *"Monks, I will teach you the **dharma** compared to a raft—for the purpose of crossing over, not for the purpose of holding onto."*  
+> *Majjhima Nikāya 22*
