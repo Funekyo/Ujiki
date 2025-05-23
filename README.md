@@ -14,7 +14,7 @@
 
 ***ujiki*** - *"chronicles of time being for a while"*
 
-**This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry—without replacing human interpretation. It exists to test how machines can support precision, ambiguity, and presence in poetic language. The focus is on translation, grammatical analysis, and creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
+**This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation, testing how machines can support precision, ambiguity, and presence in poetic language. The focus is on translation, grammatical analysis, verbal & visual creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
 
 I treat LLMs as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
@@ -44,6 +44,7 @@ Each entry includes:
 
 ALL LINKS ARE EMPTY PLACEHOLDERS - For now.
 
+- [A Human Introduction](https://github.com/Funekyo/Ujiki/blob/main/Documents/A%20Human%20Introduction) - Me waxing poetic on this 
 - [Methodology](https://github.com/Funekyo/Ujiki/blob/main/Documents/Methodology) — legacy reference materials, AI toolchain, prompt design, and workflow  
 - [Concept of Uji](https://github.com/Funekyo/Ujiki/blob/main/Documents/Concept%20of%20Uji) — a temporal definition of Dōgen’s concept of being-time
 - [About Eihei Zenji Dōgen](https://github.com/Funekyo/Ujiki/blob/main/Documents/About%20Eihei%20Zenji%20D%C5%8Dgen) — an overview of Dōgen’s life and work
