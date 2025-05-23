@@ -43,7 +43,7 @@ What *dharma* means is debated. It may refer to law, phenomenon, or principle—
 
 As for *duḥkha*, it's ossified as “suffering”, though this definition is rightly contested. Its root image is Vedic: a misaligned chariot axle—signifying a rough, unstable ride. The implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
 
-Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The asymmetry remains unresolved across traditions.
+Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this asymmetry remains unresolved across traditions.
 
 ---
 
