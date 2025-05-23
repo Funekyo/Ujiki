@@ -14,7 +14,7 @@
 
 ***ujiki*** - *"chronicles of time being for a while"*
 
-**This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation, testing how machines can support precision, ambiguity, and presence in poetic language. The focus is on translation, grammatical analysis, verbal & visual creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
+**This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation—testing how machines can support precision, ambiguity, and presence in poetic language. The focus is on virtue, translation, grammatical analysis, verbal & visual creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
 
 I treat LLMs as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
