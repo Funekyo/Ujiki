@@ -3,18 +3,18 @@
 
 ![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
 
+***uji*** - *"time being", "being time", "for a while"*
+
+***ujiki*** - *"chronicles of time being for a while"*
+
+## 🌸 introduction
+
 *"I relay to the east the sacred way of elders from the west:*  
 *Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
 *The red dust of the everyday affairs can not reach here by flight*  
 *To my grass hut in the depths of the mountain on this snowy night."*
 
----
-
-***uji*** - *"time being", "being time", "for a while"*
-
-***ujiki*** - *"chronicles of time being for a while"*
-
-**This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation—testing how machines can support precision, ambiguity, and presence in poetic language. The focus is on virtue, translation, grammatical analysis, verbal & visual creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
+**Welcome! This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry without replacing human interpretation—testing how machines can support precision, ambiguity, and presence in poetic language. The focus is on virtue, translation, grammatical analysis, verbal & visual creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
 
 I treat LLMs as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
