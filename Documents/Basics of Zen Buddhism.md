@@ -37,7 +37,7 @@ The translation for *duḥkha* has ossified as “suffering”, though this defi
 
 ---
 
-It is difficult to find doctrinal unity across Buddhist traditions, but most agree on three shared marks of conditioned experience:
+While it is difficult to find doctrinal unity across Buddhist traditions, most agree on three shared marks of conditioned experience:
 
 - **Anātman** — all *dharma* are not-self  
 - **Anitya** — all *dharma* are impermanent  
