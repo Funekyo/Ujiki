@@ -45,7 +45,7 @@ Each entry includes:
 
 ALL LINKS ARE EMPTY PLACEHOLDERS - For now.
 
-- [A Human Introduction](https://github.com/Funekyo/Ujiki/blob/main/Documents/A%20Human%20Introduction) - Me waxing poetic on this 
+- [A Human Introduction](https://github.com/Funekyo/Ujiki/blob/main/Documents/A%20Human%20Introduction) - Me waxing poetic on this thing here
 - [Methodology](https://github.com/Funekyo/Ujiki/blob/main/Documents/Methodology) — legacy reference materials, AI toolchain, prompt design, and workflow  
 - [Basics of Zen Buddhism](https://github.com/Funekyo/Ujiki/blob/main/Documents/Basics%20of%20Zen%20Buddhism) — essential terms, concepts, and doctrinal background
 - [About Eihei Zenji Dōgen](https://github.com/Funekyo/Ujiki/blob/main/Documents/About%20Eihei%20Zenji%20D%C5%8Dgen) — an overview of Dōgen’s life and work
