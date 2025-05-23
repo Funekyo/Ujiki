@@ -11,7 +11,9 @@ Buddhism is supposed to be simple as that.
 
 Apparently, it isn't. :)
 
-Buddhism begins as an Indian ascetic's attempt to diagnose and end **duḥkha**. That’s where consensus ends.
+--
+
+Buddhism begins as an Indian ascetic's attempt to diagnose and overcome **duḥkha**. That’s where consensus ends.
 
 The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. Its root image is Vedic: a misaligned chariot axle—signifying a rough, unstable ride. The implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
 
