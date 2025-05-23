@@ -13,7 +13,11 @@ Apparently, it isn't. :)
 
 Buddhism begins as an attempt to diagnose and end **duḥkha**. That’s where consensus ends.
 
-Most notably, Buddhas across traditions reject conventional knowledge structures in favor of direct experience—insight beyond what concepts alone can carry:
+The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. Its root image is Vedic: a misaligned chariot axle—signifying a rough, unstable ride. The implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
+
+---
+
+Buddha rejects conventional knowledge structures in favor of direct experience—insight beyond what concepts alone can carry:
 
 > *"Come now; don’t rely on what you hear, don’t rely on tradition, don’t rely on testament, don’t rely on scriptures, don’t rely on logic, don’t rely on inference, don’t rely on analysis, don’t rely on a view after deliberation, don’t rely on charisma, and don’t rely on our respectable ascetics — but know for yourselves."*  
 > — *Kesamutti Sūtra*
@@ -40,8 +44,6 @@ What *dharma* means is debated. It may refer to nature's law, phenomenon, or pri
 *Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”).
 
 *Anitya* is often collapsed into “everything changes,” which oversimplifies both scope and context.
-
-As for *duḥkha*, it's ossified as “suffering”, though this definition is rightly contested. Its root image is Vedic: a misaligned chariot axle—signifying a rough, unstable ride. The implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
 
 Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this asymmetry remains unresolved across traditions.
 
