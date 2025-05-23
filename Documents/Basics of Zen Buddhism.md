@@ -37,9 +37,9 @@ The translation for *duḥkha* has ossified as “suffering”, though this defi
 
 While it is difficult to find doctrinal unity across Buddhist traditions, most agree on the three marks of conditioned experience:
 
-- **Anātman** — all *dharma* are not-self  
-- **Anitya** — all *dharma* are impermanent  
-- **Duḥkha** — all *saṃskāra* are unsatisfactory
+- **Anātman** — all *dharmā* are not-self  
+- **Anitya** — all *dharmā* are impermanent  
+- **Duḥkha** — all *saṃskārā* are unsatisfactory
 
 What *dharma* means is debated. It may refer to nature's law, phenomenon, or principle—my preferred translation—except when used to mean *the teaching* explicitly in the monastic code.
 
@@ -47,25 +47,29 @@ What *dharma* means is debated. It may refer to nature's law, phenomenon, or pri
 
 *Anitya* is often reduced to “everything changes,” which oversimplifies both its scope and its implications.
 
-Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this distinction remains unresolved across traditions.
+Curiously, *dharmā* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this distinction remains unresolved across traditions.
 
 ---
 
 *Nirvāṇa* is the express goal of the Buddhist path but there is no consensus on what it actually is.
 
-The word is metaphorical: *nir* (“out”) + *vāṇa* (“blowing”) refers to the extinguishing of a flame.
+The word is metaphorical. It refers to the extinguishing of a flame.
 
-Broadly, *nirvāṇa* signifies escape from *saṃsāra*—literally "going around", this existence, the cycle of birth-and-death rebirth.
-
-This “extinguishing” is often framed in the negatives: extinguishing of craving, becoming, aversion, hatred, delusion. Or all of the above.
-
-Interpretations vary widely, with common claims describing it as a state, a realization, a cessation, or a type of special consciousness.
+Broadly, *nirvāṇa* signifies escape from *saṃsāra*—literally "going around"; this existence, the cycle of birth-and-death rebirth.
 
 Some present *nirvāṇa* as **epistemic clarity**—the cessation of delusion.  
 
 Others, as **ontological release**—the cessation of causal formations.
 
-Some schools reject dualities, claiming that *nirvāṇa* and *saṃsāra* are **indistinguishable**—but **not identical** either.
+Interpretations vary widely, with common claims describing it as a state, a realization, a cessation, or a type of special consciousness.
+
+This “extinguishing” is often framed in the negatives: extinguishing of craving, becoming, aversion, hatred, delusion. Or all of the above.
+
+Sometimes, it's framed in the positive: The secure, the wonderful, the haven, etc.
+
+Some say it is unborn, some say it's free of born things.
+
+Some schools reject dualities altogether, claiming that *nirvāṇa* and *saṃsāra* are **indistinguishable**—but **not identical** either.
 
 ---
 
@@ -99,7 +103,7 @@ If nothing else, its journey from *kōan* stories to consumer packaging proves t
 
 ---
 
-At its core, *Buddhism* can be seen as a response to the human longing for freedom, rooted in the insights of an Indian ascetic, filtered through centuries of institutional and industrial repackaging.
+At its core, *Buddhism* can be seen as a response to the longing for freedom, rooted in the insights of an Indian ascetic, filtered through centuries of institutional and industrial repackaging.
 
 Yet, despite all this confusion, there exists a great culture of debate and a spirit of inquiry within Buddhist communities, and the literature of Buddhism remains a remarkable—if at times self-contradictory and cryptic—resource for studying behavioral ethics and epistemic deconstruction.
 
