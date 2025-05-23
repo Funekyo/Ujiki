@@ -7,9 +7,7 @@ To embrace the good,
 To purify one’s mind:  
 This is the teaching of Buddhas."*
 
-Buddhism is supposed to be that simple.
-
-But it rarely is. :)
+Buddhism is supposed to be that simple—but it rarely is. :)
 
 ---
 
