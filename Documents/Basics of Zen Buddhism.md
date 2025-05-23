@@ -7,9 +7,9 @@ To embrace the good,
 To purify one’s mind:  
 This is the teaching of Buddhas."*
 
-Buddhism is supposed to be simple as that.  
+Buddhism is supposed to be that simple.
 
-Apparently, it isn't. :)
+But it rarely is. :)
 
 ---
 
@@ -33,7 +33,7 @@ Buddhism begins as an Indian ascetic's attempt to diagnose and overcome **duḥk
 
 That’s where consensus ends.
 
-The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. The word in its literal sense describes a misaligned chariot axle, and so the word is a metaphor for a rough, unstable ride. This implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
+The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. The word in its literal sense describes a misaligned chariot axle, and so the word is a metaphor for a rough, unstable ride. The implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
 
 ---
 
@@ -47,9 +47,9 @@ What *dharma* means is debated. It may refer to nature's law, phenomenon, or pri
 
 *Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”).
 
-*Anitya* is often collapsed into “everything changes,” which oversimplifies both scope and context.
+*Anitya* is often reduced to “everything changes,” which oversimplifies both its scope and its implications.
 
-Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this disctinction remains unresolved across traditions.
+Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this distinction remains unresolved across traditions.
 
 ---
 
@@ -61,11 +61,11 @@ Broadly, *nirvāṇa* signifies escape from *saṃsāra*—literally "going arou
 
 This “extinguishing” is often framed in the negatives: extinguishing of craving, becoming, aversion, hatred, delusion. Or all of the above.
 
-Interpretations vary wildly, with common claims describing it is a state, a realization, a cessatio, or a type of special consciousness.
+Interpretations vary widely, with common claims describing it as a state, a realization, a cessation, or a type of special consciousness.
 
 Some present *nirvāṇa* as **epistemic clarity**—the cessation of delusion.  
 
-Others, as **metaphysical unbinding**—the cessation of causal formations.
+Others, as **ontological release**—the cessation of causal formations.
 
 Some schools reject dualities, claiming that *nirvāṇa* and *saṃsāra* are **indistinguishable**—but **not identical** either.
 
@@ -81,7 +81,7 @@ This ideal reorients the path. Instead of treating *nirvāṇa* as cessation, it
 
 These two ideals are often framed in contrast, but both remain embedded within Buddhist traditions as complementary responses to the question: *what does freedom mean, and for whom is it sought?*
 
-This second position, the **bodhisattva** ideal forms the basis of **Mahāyāna** thought, meaning the school of *The Great Vehicle*.
+This second position, the **bodhisattva** ideal, forms the basis of **Mahāyāna** thought, meaning the school of *The Great Vehicle*.
 
 ---
 
@@ -91,11 +91,11 @@ It positions itself as a “mind-to-mind transmission outside scriptures,” tho
 
 *Zen* (禅, Japanese reading of Ch’an) travels to Japan via monastic networks, where it becomes embedded in court, warrior, and artistic culture.
 
-Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns with a unique synthesis of seated meditation called *Zazen* (坐禅) and strict monastic disipline.
+Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns with a unique synthesis of seated meditation called *Zazen* (坐禅) and strict monastic discipline.
 
 ---
 
-These days, “Zen” is as likely to describe a brand of soap or a minimalist furniture ad as it is a 13th-century Japanese monastic.  
+These days, “Zen” is as likely to brand a bar of soap or a minimalist furniture line as it is to describe a 13th-century Japanese monastic.
 
 If nothing else, its journey from *kōan* stories to consumer packaging proves the Buddha was right about impermanence.
 
@@ -103,7 +103,7 @@ If nothing else, its journey from *kōan* stories to consumer packaging proves t
 
 At its core, *Buddhism* can be seen as a response to the human longing for freedom, rooted in the insights of an Indian ascetic, filtered through centuries of institutional and industrial repackaging.
 
-Yet, despite all this confusion, there exists a great debative culture and a spirit of inquiry within Buddhist communities, and the literature of Buddhism stands as an exceptional—if at times self-contradictory and cryptic—source of inspiration to study behavioral ethics and epistemic deconstruction.
+Yet, despite all this confusion, there exists a great culture of debate and a spirit of inquiry within Buddhist communities, and the literature of Buddhism remains a remarkable—if at times self-contradictory and cryptic—resource for studying behavioral ethics and epistemic deconstruction.
 
 If you were to ask me what **dharma** means, I would quote one of my favourite sūtras:
 
