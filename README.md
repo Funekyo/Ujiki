@@ -66,6 +66,6 @@ Work-in-progress by **[Funekyo](link)**.
 
 **Feedback & company are most welcome.** Feel free to reach out to discuss AI, ethics, Dōgen, Dhamma poetry & wenwan walnuts.
 
-**Kindly consider supporting** if this project aligns with your interests.
+**Kindly consider supporting** if this project aligns with your interests. This is a long-term attempt to understand if human-AI collaboration can deepen—not flatten—poetic and contemplative thought. I’m looking for aligned patrons who see value in this frontier.
 
 🌸
