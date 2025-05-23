@@ -14,7 +14,7 @@
 
 Through poetry, the focus is on virtue, linguistic analysis, structured data output, translation, and verbal & visual creative rendering—all for unearthing ancient stillness in the turmoil of the now.
 
-I treat LLMs as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
+I treat LLMs as an automation tool for structural tasks (flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
 **AI is treated symbolically as a co-contributor:** a way to explore semantic space through reflection and response, grounded in the dialogue between the user and the accumulated data of collective human language.
 
