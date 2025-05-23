@@ -13,7 +13,7 @@ Apparently, it isn't. :)
 
 ---
 
-Buddha rejects conventional knowledge structures in favor of direct experience for an insight beyond what concepts can carry:
+Buddha is said to reject conventional knowledge structures in favor of direct experience.
 
 > *"Come now; don’t rely on what you hear, don’t rely on tradition, don’t rely on testament, don’t rely on scriptures, don’t rely on logic, don’t rely on inference, don’t rely on analysis, don’t rely on a view after deliberation, don’t rely on charisma, and don’t rely on our respectable ascetics — but know for yourselves."*  
 > — *Kesamutti Sūtra*
