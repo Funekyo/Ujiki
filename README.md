@@ -1,7 +1,12 @@
 # 有時記 - Ujiki
-*A personal chronicle of Dōgen's Zen poetry using legacy & AI tools for linguistic analysis, translation and creative interpretation.*
+*A personal chronicle of re-imagining Dōgen's Zen poetry using legacy & AI tools for linguistic analysis and translation.*
 
 ![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
+
+*"I relay to the east the sacred way of elders from the west:
+Fishing the moon, plowing the clouds, admiring the ancient tempest;
+The red dust of the everyday affairs can not reach here by flight
+To my grass hut in the depths of the mountain on this snowy night."*
 
 ***uji*** - *"time being", "being time", "for a while"*
 
