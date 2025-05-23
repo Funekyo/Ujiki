@@ -1,30 +1,31 @@
 # 有時記 - Ujiki
-*A personal chronicle of re-imagining Dōgen's Zen poetry using legacy & AI tools for linguistic analysis and translation.*
+*A personal chronicle of reimagining Dōgen's Zen poetry using legacy and AI tools for linguistic analysis and translation.*
 
 ![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/84065bb8-5d25-4fa8-8033-2e3c6a4ae5a2)
 
-*"I relay to the east the sacred way of elders from the west:
-Fishing the moon, plowing the clouds, admiring the ancient tempest;
-The red dust of the everyday affairs can not reach here by flight
-To my grass hut in the depths of the mountain on this snowy night."*
+*I relay to the east the sacred way of elders from the west:*  
+*Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
+*The red dust of the everyday affairs can not reach here by flight*  
+*To my grass hut in the depths of the mountain on this snowy night.*  
+
+---
 
 ***uji*** - *"time being", "being time", "for a while"*
 
 ***ujiki*** - *"chronicles of time being for a while"*
 
----
-
-**This project explores how AI tools can be used ethically and with epistemic lucidity to analyse and reimagine the poetry of Zen Master Dōgen. The focus is on translation, grammatical analysis, and creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
+**This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry—without replacing human interpretation. It exists to test how machines can support precision, ambiguity, and presence in poetic language. The focus is on translation, grammatical analysis, and creative rendering, as a means to bring ancient stillness into the turmoil of the now.**
 
 I treat LLMs as an automation tool for structural tasks (reference lists, flashcards, spreadsheets, and similar tools) but not for automating understanding. In that domain, I test its application as a lens to support human insight, poetic presence, and creative work.
 
-**AI is treated symbolically as a co-contributor:** a way to explore semantic space through reflection and response, grounded in the data of collective human language.
+**AI is treated symbolically as a co-contributor:** a way to explore semantic space through reflection and response, grounded in the accumulated data of collective human language.
 
-AI-generated responses are compared with human references to a point beyond redundancy, to observe convergence and divergence. Finally, I merge all data into poetry that resonates with the Dharma as I understand it.
+AI-generated responses are compared with human references—beyond the point of redundancy—to observe convergence and divergence. Finally, I merge all data into poetry that resonates with the Dharma as I understand it.
 
 In addition to poetic musings, the scope includes linguistic analysis, translation process, and structured data output. You will also find meta-articles exploring Dōgen, Zen Buddhism, and ethics of AI.
 
-Each poem becomes a site of whimsical failure—recursive and temporal.  
+Each poem becomes a site of recursive, temporal, and ever whimsical failure.
+
 
 ---
 
@@ -71,6 +72,6 @@ Work-in-progress by **[Funekyo](link)**.
 
 **Feedback & company are most welcome.** Feel free to reach out to discuss AI, ethics, Dōgen, Dhamma poetry & wenwan walnuts.
 
-**Kindly consider supporting** if this project aligns with your interests. This is a long-term attempt to understand if human-AI collaboration can deepen—not flatten—poetic and contemplative thought. I’m looking for aligned patrons who see value in this frontier.
+**Kindly consider supporting** if this project aligns with your interests. This is a long-term attempt to understand how human-AI collaboration can deepen—not flatten—poetic and contemplative thought. I’m looking for patrons who see value in such efforts.
 
 🌸
