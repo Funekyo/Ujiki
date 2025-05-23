@@ -22,9 +22,9 @@ Despite the reverence this sūtra receives, many Buddhists today defer unquestio
 
 When asked to summarize the teaching, the Buddha reframes **dharma** in practical, affective terms:
 
-> *"You might know that certain things lead to passion, not dispassion; to yoking, not unyoking; to accumulation, not dispersal; to more desires, not fewer; to discontent, not contentment; to crowding, not seclusion; to laziness, not energy; to being burdensome, not unburdensome. These should be remembered as not the teaching, not the training, and not the Teacher’s instruction.*  
+> *"You might know that certain things lead to passion, not dispassion; to yoking, not unyoking; to accumulation, not dispersal; to more desires, not fewer; to discontent, not contentment; to crowding, not seclusion; to laziness, not energy; to being burdensome, not unburdensome. These should be remembered as not the principle, not the discipline, and not the Teacher’s instruction.*  
 >  
-> *You might know that certain things lead to dispassion, not passion; to unyoking, not yoking; to dispersal, not accumulation; to fewer desires, not more; to contentment, not discontent; to seclusion, not crowding; to energy, not laziness; to being unburdensome, not burdensome. These should be remembered as the teaching, the training, and the Teacher’s instruction.”*  
+> *You might know that certain things lead to dispassion, not passion; to unyoking, not yoking; to dispersal, not accumulation; to fewer desires, not more; to contentment, not discontent; to seclusion, not crowding; to energy, not laziness; to being unburdensome, not burdensome. These should be remembered as the principle, the discipline, and the Teacher’s instruction.”*  
 > — *Aṅguttara Nikāya 8.53*
 
 ---
