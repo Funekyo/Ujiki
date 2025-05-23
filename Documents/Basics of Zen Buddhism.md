@@ -95,8 +95,6 @@ It positions itself as a “mind-to-mind transmission outside scriptures,” tho
 
 Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns with a unique synthesis of seated meditation called *Zazen* (坐禅) and strict monastic discipline.
 
----
-
 These days, “Zen” is as likely to brand a bar of soap or a minimalist furniture line as it is to describe a 13th-century Japanese monastic.
 
 If nothing else, its journey from *kōan* stories to consumer packaging proves the Buddha was right about impermanence.
