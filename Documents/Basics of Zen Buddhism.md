@@ -47,7 +47,7 @@ Curiously, *dharma* are said to be not-self and impermanent, while *saṃskāra*
 
 ---
 
-*Nirvāṇa* is often held in esteem across schools—but without consensus on what it actually is.
+*Nirvāṇa* is the express goal of the Buddhist path—but without consensus on what it actually is.
 
 At root, the word is metaphorical: *nir* (“out”) + *vāṇa* (“blowing”)—the extinguishing of a flame.
 
