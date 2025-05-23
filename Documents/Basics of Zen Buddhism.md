@@ -35,7 +35,7 @@ It is difficult to find doctrinal unity across Buddhist traditions, but most agr
 - **Anitya** — all *dharma* are impermanent  
 - **Duḥkha** — all *saṃskāra* are unsatisfactory
 
-What *dharma* means is debated. It may refer to law, phenomenon, or principle—my preferred translation—except when used to mean *the teaching* explicitly in the monastic code.
+What *dharma* means is debated. It may refer to nature's law, phenomenon, or principle—my preferred translation—except when used to mean *the teaching* explicitly in the monastic code.
 
 *Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”).
 
