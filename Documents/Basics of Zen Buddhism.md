@@ -51,7 +51,9 @@ While it is difficult to find doctrinal unity across Buddhist traditions, most a
 
 *Anitya* is often reduced to “everything changes,” which oversimplifies both its scope and its implications.
 
-Curiously, *dharmā* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. The significance of this distinction remains unresolved across traditions.
+Curiously, *dharmā* are said to be not-self and impermanent, while *saṃskāra*—fabricated or conditioned things—are said to be *duḥkha*. 
+
+It appears that some things are *dharmā*, while some things are *saṃskārā*. The significance of this distinction remains unresolved across traditions.
 
 ---
 
