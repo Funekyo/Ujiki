@@ -7,7 +7,7 @@ To embrace the good,
 To purify one’s mind:  
 This is the teaching of Buddhas."*
 
-Buddhism is supposed to be that simple—but it rarely is. :)
+Buddha's teaching is supposed to be that simple. :)
 
 ---
 
@@ -17,6 +17,14 @@ In the sūtras —the canonical scriptures of Buddhism— Buddha is said to reje
 > — *Kesamutti Sūtra*
 
 Despite the reverence this sūtra receives, many Buddhists today defer unquestioningly to scriptures, monastic authority, logic, and tradition. The irony is hard to ignore.
+
+---
+
+Buddhism begins as an Indian ascetic's attempt to diagnose and overcome **duḥkha**. 
+
+That’s where consensus ends.
+
+The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. The word in its literal sense describes a misaligned chariot axle, and so the word is a metaphor for a rough, unstable ride. The implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
 
 ---
 
@@ -30,14 +38,6 @@ When asked to summarize the teaching, the Buddha reframes **dharma** in practica
 >  
 > *You might know that certain things lead to dispassion, not passion; to unyoking, not yoking; to dispersal, not accumulation; to fewer desires, not more; to contentment, not discontent; to seclusion, not crowding; to energy, not laziness; to being unburdensome, not burdensome. These should be remembered as **dharma**, the discipline, and the Teacher’s instruction.”*  
 > — *Aṅguttara Nikāya 8.53*
-
----
-
-Buddhism begins as an Indian ascetic's attempt to diagnose and overcome **duḥkha**. 
-
-That’s where consensus ends.
-
-The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. The word in its literal sense describes a misaligned chariot axle, and so the word is a metaphor for a rough, unstable ride. The implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
 
 ---
 
