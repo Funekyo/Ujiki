@@ -43,9 +43,9 @@ The translation for *duḥkha* has ossified as “suffering”, though this defi
 
 While it is difficult to find doctrinal unity across Buddhist traditions, most agree on the three marks of conditioned experience:
 
-- **Anātman** — all *dharmā* are not-self  
-- **Anitya** — all *dharmā* are impermanent  
-- **Duḥkha** — all *saṃskārā* are unsatisfactory
+- **Anātman** — all *dharmā* are **not-self**.  
+- **Anitya** — all *dharmā* are **impermanent**.  
+- **Duḥkha** — all *saṃskārā* are **unsatisfactory**.
 
 *Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”).
 
