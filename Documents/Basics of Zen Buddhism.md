@@ -11,15 +11,6 @@ Buddha's teaching is supposed to be that simple. :)
 
 ---
 
-In the sūtras —the canonical scriptures of Buddhism— Buddha is said to reject conventional knowledge structures in favor of direct experience:
-
-> *"Come now; don’t rely on what you hear, don’t rely on tradition, don’t rely on testament, don’t rely on scriptures, don’t rely on logic, don’t rely on inference, don’t rely on analysis, don’t rely on a view after deliberation, don’t rely on charisma, and don’t rely on our respectable ascetics — **but know for yourselves**."*  
-> — *Kesamutti Sūtra*
-
-Despite the reverence this sūtra receives, many Buddhists today defer unquestioningly to scriptures, monastic authority, logic, and tradition. The irony is hard to ignore.
-
----
-
 Buddhism begins as an Indian ascetic's attempt to diagnose and overcome **duḥkha**. 
 
 That’s where consensus ends.
@@ -104,6 +95,15 @@ Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns
 These days, “Zen” is as likely to brand a bar of soap or a minimalist furniture line as it is to describe a 13th-century Japanese monastic.
 
 If nothing else, its journey from *kōan* stories to consumer packaging proves the Buddha was right about impermanence.
+
+---
+
+In the sūtras —the canonical scriptures of Buddhism— Buddha is said to reject conventional knowledge structures in favor of direct experience:
+
+> *"Come now; don’t rely on what you hear, don’t rely on tradition, don’t rely on testament, don’t rely on scriptures, don’t rely on logic, don’t rely on inference, don’t rely on analysis, don’t rely on a view after deliberation, don’t rely on charisma, and don’t rely on our respectable ascetics — **but know for yourselves**."*  
+> — *Kesamutti Sūtra*
+
+Despite the reverence this sūtra receives, many Buddhists today defer unquestioningly to scriptures, monastic authority, logic, and tradition. The irony is hard to ignore.
 
 ---
 
