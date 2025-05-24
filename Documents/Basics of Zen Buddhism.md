@@ -81,7 +81,7 @@ Some schools reject dualities altogether, claiming that *nirvāṇa* and *saṃs
 
 Within Buddhist history, two major archetypes of awakening developed, each representing distinct emphases in path and aim:
 
-The **arhat** ("worthy one") reaches *nirvāṇa* through direct insight, extinguishing craving, and no longer generating *karma* ("activity") that binds one to *saṃsāra*. The goal is personal liberation, realized through virtuous conduct, meditative absorption, and insight into impermanence, not-self, and suffering.
+The **arhat** ("worthy one") reaches *nirvāṇa* through direct insight, extinguishing craving, and no longer generating *karma* ("activity") that binds one to *saṃsāra*. The goal is personal liberation, realized through virtuous conduct, meditative absorption, and insight into *anātman*, *anitya*, and *duḥkha*.
 
 The **bodhisattva** ("awakening being") vows to attain full Buddhahood not for personal escape, but to guide all beings to liberation.
 
