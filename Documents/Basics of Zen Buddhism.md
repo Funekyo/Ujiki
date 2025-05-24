@@ -101,9 +101,7 @@ It positions itself as a “mind-to-mind transmission outside scriptures,” tho
 
 Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns with a unique synthesis of seated meditation called *Zazen* (坐禅) and strict monastic discipline.
 
----
-
-**Zazen** (坐禅) means “seated meditation”. 
+**Zazen** (坐禅) means “seated meditation”. Here's *zazen* in Dōgen's own words:
 
 > *“Tune into your body. Tune into your breath. Settle down.*  
 > *Sway left and right, then sit upright like a rock.*  
