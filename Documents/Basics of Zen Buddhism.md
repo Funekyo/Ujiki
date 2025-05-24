@@ -107,8 +107,10 @@ Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns
 
 > *“Tune into your body. Tune into your breath. Settle down.  
 > Sway left and right, then sit upright like a rock.  
-> Fathom the unfathomable.  
-> How do you fathom the unfathomable? Fathomless!  
+> Fathom the unfathomable.
+> 
+> How do you fathom the unfathomable?
+> Fathomless!  
 > This is the essential art of zazen.*  
 >  
 > *What's called zazen is the non-practice of meditation—  
