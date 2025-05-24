@@ -89,7 +89,7 @@ This ideal reorients the path. Instead of treating *nirvāṇa* as cessation, it
 
 These two ideals are often framed in contrast, but both remain embedded within Buddhist traditions as complementary responses to the question: *what does freedom mean, and for whom is it sought?*
 
-This second position, the **bodhisattva** ideal, forms the basis of **Mahāyāna** thought, meaning the school of *The Great Vehicle*.
+This second position, the **bodhisattva** ideal, forms the basis of **Mahāyāna** thought, meaning the school of *The Great Vehicle*, which the *Ch'an* sect is a part of. 
 
 ---
 
