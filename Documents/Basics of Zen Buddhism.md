@@ -107,9 +107,9 @@ If nothing else, its journey from *kōan* stories to consumer packaging proves t
 
 ---
 
-At its core, *Buddhism* can be seen as a response to the longing for freedom, rooted in the insights of an Indian ascetic, filtered through centuries of institutional and industrial repackaging.
+At its core, *Buddhism* can be seen as a response to the longing for freedom, rooted in the insights of an Indian ascetic, filtered through centuries of institutional repackaging.
 
-Yet, despite all this confusion, there exists a great culture of debate and a spirit of inquiry within Buddhist communities, and the literature of Buddhism remains a remarkable—if at times self-contradictory and cryptic—resource for studying behavioral ethics and epistemic deconstruction.
+Yet, despite all this confusion, there exists a great spirit of inquiry and culture of debate within Buddhist communities; and the literature of Buddhism remains a remarkable—if at times self-contradictory and cryptic—resource for studying behavioral ethics and epistemic deconstruction.
 
 If you were to ask me what **dharma** means, I would quote one of my favourite sūtras:
 
