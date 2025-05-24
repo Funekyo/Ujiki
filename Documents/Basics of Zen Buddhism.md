@@ -22,7 +22,7 @@ Despite the reverence this sūtra receives, many Buddhists today defer unquestio
 
 Buddha teaches us the **dharma**.
 
-What *dharma* means is debated. It may refer to nature's law, phenomenon, or principle—my preferred translation—except when used to mean *the teaching* explicitly in the monastic code.
+What *dharma* means is debated. It may refer to nature's law, phenomenon, or principle—except when it's used to mean *the teaching* explicitly in the monastic code.
 
 When asked to summarize the teaching, the Buddha reframes **dharma** in practical, affective terms:
 
