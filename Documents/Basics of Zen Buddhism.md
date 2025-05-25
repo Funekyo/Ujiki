@@ -49,7 +49,7 @@ While it is difficult to find doctrinal unity across Buddhist traditions, most a
 - **Anitya** — all *dharmā* are **impermanent**.  
 - **Duḥkha** — all *saṃskārā* are **unsatisfactory**.
 
-*Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”).
+*Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”). It should be obvious that all these readings are in conflict with one another.
 
 *Anitya* is often reduced to “everything changes,” which oversimplifies both its scope and its implications.
 
@@ -59,7 +59,7 @@ It appears that some things are *dharmā*, while some things are *saṃskārā*.
 
 ---
 
-*Nirvāṇa* is the express goal of the Buddhist path but there is no consensus on what it actually is.
+**Nirvāṇa** is the express goal of the Buddhist path but there is no consensus on what it actually is.
 
 The word is metaphorical. It refers to the extinguishing of a flame.
 
