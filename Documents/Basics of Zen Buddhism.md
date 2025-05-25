@@ -124,7 +124,7 @@ If nothing else, its journey from *kōan* stories to consumer packaging proves t
 
 ---
 
-At its core, *Buddhism* can be seen as a response to the longing for freedom, rooted in the insights of an Indian ascetic, filtered through millennia of institutional repackaging.
+At its core, *Buddhism* can be seen as a response to the longing for freedom, rooted in the insights of an Indian ascetic, filtered through millennia of institutional repackaging. All the current scriptures and their exegesis should be viewed from this critical lens.
 
 Yet, despite all this confusion, there exists a great spirit of inquiry and culture of debate within Buddhist communities; and the literature of Buddhism remains a remarkable—if at times self-contradictory and cryptic—resource for studying behavioral ethics and epistemic deconstruction.
 
