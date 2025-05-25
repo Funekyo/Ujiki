@@ -7,7 +7,7 @@ To embrace the good,
 To purify one’s mind:  
 This is the teaching of Buddhas."*
 
-Buddha's teaching is supposed to be that simple. :)
+Buddhas' teaching is supposed to be that simple. :)
 
 Let us unpack some of the most important terms in modern *Buddhism* today.
 
@@ -32,7 +32,7 @@ The translation for *duḥkha* has ossified as “suffering”, though this defi
 
 Buddha teaches us the **dharma**.
 
-What *dharma* means is debated. It may refer to nature's law, phenomenon, or principle—except when it's used to mean *the teaching* explicitly in the monastic code.
+What *dharma* means is debated. It may refer to "nature's law", "phenomenon", or "principle"—except when it's used to mean *the word of the Buddha* explicitly in the monastic code.
 
 When asked to summarize the teaching, the Buddha reframes **dharma** in practical, affective terms:
 
