@@ -1,3 +1,7 @@
+## Prompts Used
+
+Used with ChatGPT and DeepSeek for this project:
+
 <details>
 <summary><strong>Chinese Analysis Prompt</strong></summary>
 
@@ -59,3 +63,35 @@ Here's the poem:
 ```
 
 </details>
+
+## Chinese Language Tools
+
+Chinese related tools to deciphering the texts:
+
+### [A Primer in Chinese Buddhist Writings](https://religiousstudies.stanford.edu/primer-chinese-buddhist-writings)
+
+John Kieschnick's seminal work for students of Chinese Buddhist Writings.
+
+### [A Dictionary of Chinese Buddhist Terms](https://mahajana.net/texts/soothill-hodous.html)
+
+An excellent dictionary for Buddhist terms in Chinese, by William Edward Soothill and Lewis Hodous.
+
+### [Charles Muller's Chinese Dictionaries](https://buddhism-dict.net)
+
+One for Buddhist, one for general East Asian religions & philosophies, two great resources for any serious scholar. 
+
+### [Buddhist Chinese - Sanskrit Dictionary](https://static.sariputta.com/pdf/tipitaka/867/a-buddhist-chinese_sanskrit-dict_hirakawa.pdf)
+
+Hirakawa's fantastic dictionary for all the Chinese terms that were used for Sanskrit translations. 
+
+### [CC-CEDICT Chinese Dictionary](https://www.mdbg.net/chinese/dictionary?page=cedict)
+
+The word dictionary project started by Paul Denisowski with the aim to provide a complete downloadable Chinese to English dictionary with pronunciation in pinyin for the Chinese characters. An amazing tool for offline scripts.
+
+### [Yomitan Pop-up Dictionary Plug-in for Chrome](https://chromewebstore.google.com/detail/yomitan-popup-dictionary/likgccmbimhjbgkjambclfkhldnlhbnn?hl=en)
+
+A browser plug-in for dictionaries for various languages, notably for Chinese & Japanese. 
+
+### [Mandarin Spot Annotations](https://mandarinspot.com/)
+
+A great little wrapping around CC-CEDICT that provides easy to read annotations for a body of text, also giving a printable glossary. Has a simple API for your websites to use. 
