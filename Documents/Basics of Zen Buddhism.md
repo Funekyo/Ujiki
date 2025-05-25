@@ -32,7 +32,7 @@ The translation for *duḥkha* has ossified as “suffering”, though this defi
 
 Buddha teaches us the **dharma**.
 
-What *dharma* means is debated. It may refer to "reality", "the truth", "(nature's) law", "phenomenon", or "principle"—except when it's used to mean *the word of the Buddha* explicitly in the monastic code.
+What *dharma* means is vague, and highly depends on the context. It may refer to "reality", "the truth", "(nature's) law", "phenomenon", or "principle"—except when it's used to mean *the word of the Buddha* explicitly in the monastic code.
 
 > *"Just as the great sea has but one taste—the taste of salt—so too does this **dharma** and discipline have but one taste: **the taste of freedom**."*
 >
