@@ -35,3 +35,22 @@ We’ll work one line at a time to ensure fidelity and manageable token load.
 
 Here's the poem:  
 [INSERT POEM HERE]
+</details>
+
+<details>
+<summary><strong>Chinese/Japanese/English Glossary Sheet Creator Prompt</strong></summary>
+
+```markdown
+Please create an Excel document for the following Chinese poem, one row per Chinese character or word, not by line. The columns should be formatted like this:
+
+Row 1: Chinese characters for first line
+Row 2: English translation
+Row 3: Pinyin
+Row 4: Japanese hiragana rendering of the kanji (where possible)
+Row 5: Romaji of the hiragana
+Row 6: Repeat for next line
+
+Do not group entire lines into one cell. Instead, break the poem down character by character, and assign each to a new column.
+
+Here is the poem:
+</details>
