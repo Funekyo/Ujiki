@@ -26,7 +26,7 @@ Buddhism begins as an Indian ascetic's attempt to diagnose and overcome **duḥk
 
 That’s where consensus ends.
 
-The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. The word in its literal sense describes a misaligned chariot axle, and so the word is a metaphor for a rough, unstable ride. The implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
+The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. The word in its literal sense describes a misaligned chariot axle, and so the word is a metaphor for a rough, unstable ride. This implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
 
 ---
 
