@@ -49,7 +49,7 @@ Each entry includes:
 LINKS BELOW ARE EMPTY PLACEHOLDERS
 
 - [A Human Introduction](https://github.com/Funekyo/Ujiki/blob/main/Documents/A%20Human%20Introduction) - A personal, poetic overview of this project
-- [Methodology](https://github.com/Funekyo/Ujiki/blob/main/Documents/Methodology) — Legacy references, AI toolchain, prompt design, and workflow  
+- [Methodology](https://github.com/Funekyo/Ujiki/blob/main/Documents/Methodology.md) — Legacy references, AI toolchain, prompt design, and workflow  
 - [About Eihei Zenji Dōgen](https://github.com/Funekyo/Ujiki/blob/main/Documents/About%20Eihei%20Zenji%20D%C5%8Dgen) — An overview of Dōgen’s life and work
 - [Concept of Uji](https://github.com/Funekyo/Ujiki/blob/main/Documents/Concept%20of%20Uji) — A temporal definition of Dōgen’s "being-time"
 - [AI & Ethics](https://github.com/Funekyo/Ujiki/blob/main/Documents/AI%20%26%20Ethics) — Notes on responsible use, model framing, and epistemic boundaries
