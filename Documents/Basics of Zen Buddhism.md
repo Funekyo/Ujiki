@@ -130,7 +130,7 @@ Yet, despite all this confusion, there exists a great spirit of inquiry and cult
 
 If you were to ask me what **dharma** means, I would quote one of my favourite sūtras:
 
-> *"Just as the great sea has but one taste—the taste of salt—so too does this **dharma** and discipline have but one taste: the taste of freedom."*  
+> *"Just as the great sea has but one taste—the taste of salt—so too does this **dharma** and discipline have but one taste: **the taste of freedom**."*  
 > — *Udāna 5.5*
 
 Even then, **dharma** is not something to hold on to. It can be considered as a medicine, the aim of which is to free the person from needing to take medicine altogether. 
