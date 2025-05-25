@@ -9,6 +9,8 @@ This is the teaching of Buddhas."*
 
 Buddha's teaching is supposed to be that simple. :)
 
+Let us unpack some of the most important terms in modern *Buddhism* today.
+
 ---
 
 In the sūtras —the canonical scriptures of Buddhism— Buddha is said to reject conventional knowledge structures in favor of direct experience:
