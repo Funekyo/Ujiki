@@ -32,18 +32,15 @@ The translation for *duḥkha* has ossified as “suffering”, though this defi
 
 Buddha teaches us the **dharma**.
 
-What *dharma* means is debated. It may refer to "nature's law", "phenomenon", or "principle"—except when it's used to mean *the word of the Buddha* explicitly in the monastic code.
+What *dharma* means is debated. It may refer to "reality", "the truth", "(nature's) law", "phenomenon", or "principle"—except when it's used to mean *the word of the Buddha* explicitly in the monastic code.
 
-When asked to summarize the teaching, the Buddha reframes **dharma** in practical, affective terms:
-
-> *"You might know that certain things lead to passion, not dispassion; to yoking, not unyoking; to accumulation, not dispersal; to more desires, not fewer; to discontent, not contentment; to crowding, not seclusion; to laziness, not energy; to being burdensome, not unburdensome. These should be remembered as not **dharma**, not the discipline, and not the Teacher’s instruction.*  
->  
-> *You might know that certain things lead to dispassion, not passion; to unyoking, not yoking; to dispersal, not accumulation; to fewer desires, not more; to contentment, not discontent; to seclusion, not crowding; to energy, not laziness; to being unburdensome, not burdensome. These should be remembered as **dharma**, the discipline, and the Teacher’s instruction.”*  
-> — *Aṅguttara Nikāya 8.53*
+> *"Just as the great sea has but one taste—the taste of salt—so too does this **dharma** and discipline have but one taste: **the taste of freedom**."*
+>
+> — *Udāna 5.5*
 
 ---
 
-While it is difficult to find doctrinal unity across Buddhist traditions, most agree on the three marks of conditioned experience:
+While it is difficult to find doctrinal unity across Buddhist traditions, most agree on the three marks of conditioned existence:
 
 - **Anātman** — all *dharmā* are **not-self**.  
 - **Anitya** — all *dharmā* are **impermanent**.  
@@ -128,10 +125,12 @@ At its core, *Buddhism* can be seen as a response to the longing for freedom, ro
 
 Yet, despite all this confusion, there exists a great spirit of inquiry and culture of debate within Buddhist communities; and the literature of Buddhism remains a remarkable—if at times self-contradictory and cryptic—resource for studying behavioral ethics and epistemic deconstruction.
 
-If you were to ask me what **dharma** means, I would quote one of my favourite sūtras:
+When asked to summarize the teaching, the Buddha reframes **dharma** in practical, affective terms:
 
-> *"Just as the great sea has but one taste—the taste of salt—so too does this **dharma** and discipline have but one taste: **the taste of freedom**."*  
-> — *Udāna 5.5*
+> *"You might know that certain things lead to passion, not dispassion; to yoking, not unyoking; to accumulation, not dispersal; to more desires, not fewer; to discontent, not contentment; to crowding, not seclusion; to laziness, not energy; to being burdensome, not unburdensome. These should be remembered as **not dharma**, not the discipline, and not the Teacher’s instruction.*  
+>  
+> *You might know that certain things lead to dispassion, not passion; to unyoking, not yoking; to dispersal, not accumulation; to fewer desires, not more; to contentment, not discontent; to seclusion, not crowding; to energy, not laziness; to being unburdensome, not burdensome. These should be remembered as **dharma**, the discipline, and the Teacher’s instruction.”*  
+> — *Aṅguttara Nikāya 8.53*
 
 Even then, **dharma** is not something to hold on to. It can be considered as a medicine, the aim of which is to free the person from needing to take medicine altogether. 
 
