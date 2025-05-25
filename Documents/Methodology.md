@@ -1,7 +1,4 @@
-<details>
-<summary><strong>Click to expand and copy prompt</strong></summary>
-
-<pre><code>
+````
 Please analyze the following Chinese poem **line by line**, with the following method:
 
 1. **Character-by-character glossing**:
@@ -28,13 +25,10 @@ Please analyze the following Chinese poem **line by line**, with the following m
      - Any resonance with Dōgen’s other works, Buddhist imagery, or seasonal conventions.
 
 ⚠️ Do not skip steps or reorder them.  
-⚠️ Use clear formatting to make glosses, examples, translations, and commentary easily distinguishable
+⚠️ Use clear formatting to make glosses, examples, translations, and commentary easily distinguishable  
 ⚠️ Maintain a balance of clarity and poetic sensitivity—this is a philological task, not a loose paraphrase.
 
 We’ll work one line at a time to ensure fidelity and manageable token load.
 
-Here's the poem:  
-
-</code></pre>
-
-</details>
+Here's the poem:
+```
