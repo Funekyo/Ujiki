@@ -10,7 +10,7 @@
 
 ***有時記 ujiki*** - *"chronicles of time being for a while"*
 
-**Welcome.** This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry—without replacing human interpretation. It tests how machines can support precision, ambiguity, and presence within poetic language.
+**Welcome!** This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry—without replacing human interpretation. It tests how machines can support precision, ambiguity, and presence within poetic language.
 
 Through poetry, the focus is on virtue, linguistic analysis, structured data output, translation, and verbal & visual creative rendering—all for unearthing ancient stillness in the turmoil of the now.
 
