@@ -22,7 +22,7 @@ Despite the reverence this sūtra receives, many Buddhists today defer unquestio
 
 ---
 
-Buddhism begins as an Indian ascetic's attempt to diagnose and overcome **duḥkha**. 
+Buddhism begins as an Indian ascetic's attempt to diagnose and let go of **duḥkha**. 
 
 That’s where consensus ends.
 
