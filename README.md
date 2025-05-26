@@ -12,24 +12,22 @@
 
 **Welcome!** This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry—without replacing human interpretation. It tests how machines can support precision, ambiguity, and presence within poetic language.
 
-Through poetry, the focus is on virtue, linguistic analysis, structured data output, translation, and verbal & visual creative rendering—all for unearthing ancient stillness in the turmoil of the now.
+Through poetry, I focus on virtue, linguistic analysis, structured data output, translation, and verbal & visual creative rendering—all for unearthing ancient stillness in the turmoil of the now.
 
 I treat LLMs as automation tools for structural tasks (flashcards, spreadsheets, and similar tools) but not for automating understanding. There, I test its application as a lens to support human insight, poetic presence, and creative work.
 
-**AI is treated symbolically as an assistant:** a way to explore semantic space through reflection and response, grounded in the dialogue between the user and the data of collective human language.
+I treat AI is symbolically as an assistant, as a way to explore semantic space through prompt and response, grounded in the dialogue between the user and the data of collective human language.
 
-AI-generated responses are compared with human references—beyond redundancy—to observe points of convergence and divergence. I then merge these insights into poetry that resonates with the Dharma as I understand it.
+I compare AI-generated responses with human references—beyond redundancy—to observe where they converge and diverge. I then merge these insights into poetry that resonates with the Dharma as I understand it.
 
 In addition to poetic musings, you will also find meta-articles exploring Dōgen, Zen Buddhism, and ethics of AI, along with the tools I've built. 
 
 Each poem is a site of recursive, temporal, and ever-whimsical failure.
 
-***"I relay to the east the sacred way of elders from the west:*  
-*Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
-*The red dust of the everyday affairs cannot reach here by flight*  
-*To my grass hut in the depths of the mountain on this snowy night."***
-
----
+> *"I relay to the east the sacred way of elders from the west:*  
+> *Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
+> *The red dust of the everyday affairs cannot reach here by flight*  
+> *To my grass hut in the depths of the mountain on this snowy night."*
 
 ## 📄 format
 
@@ -58,11 +56,13 @@ LINKS BELOW ARE EMPTY PLACEHOLDERS
 
 ## ⚖️ license
 
+All translations are mine unless noted.
+
 All content is licensed under  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
 [View license →](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-You’re welcome to share or adapt this work for non-commercial purposes, with attribution and the same license. Please refrain from commercial or proprietary use.
+You’re welcome to share or adapt this work for non-commercial purposes, with attribution and the same license. Feel free to contact me for commercial or proprietary use.
 
 
 ---
