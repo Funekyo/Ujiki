@@ -22,7 +22,7 @@ I compare AI-generated responses with human references—beyond redundancy—to 
 
 In addition to poetic musings, you will also find meta-articles exploring Dōgen, Zen Buddhism, and ethics of AI, along with the tools I've built. 
 
-Each poem is a site of recursive, temporal, and ever-whimsical failure.
+Each poem is a site of recursive, temporal, and ever-whimsical failure. I hope they will give you a reason to pause and breathe in joyful ease. :)
 
 > *"I relay to the east the sacred way of elders from the west:*  
 > *Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
