@@ -49,7 +49,10 @@ Here's the poem:
 
 <details>
 <summary><strong>Image Generator Prompt</strong></summary>
+```markdown
+
 Please give me 3 sumi-e & watercolor painting concepts based on the poem we just worked on. I want cinematic composition, poetic resonance, and detailed visual cues—paintings that interpret the poem's emotional, philosophical, and seasonal tones. Kindly explain why you chose the motifs you do that match the poem's symbolism and exposition.
+```
 </details>
 
 <details>
