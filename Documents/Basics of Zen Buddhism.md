@@ -105,7 +105,7 @@ Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns
 > *Fathom the unfathomable.*
 > 
 > *How do you fathom the unfathomable?*  
-> *Fathomless!*  
+> *Not by fathoming it."*  
 > *This is the essential art of zazen.*
 >  
 > *What's called zazen is the non-practice of meditation—*  
