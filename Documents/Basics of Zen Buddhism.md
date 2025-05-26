@@ -108,7 +108,7 @@ Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns
 > *Sway left and right, then sit upright like a rock.*  
 > *Trace the untraced.*
 >
-> *How do you trace the untraced?*
+> *How do you trace the untraced?*  
 > *Not by tracing it—*  
 > *this is the essential art of Zazen.*
 >  
