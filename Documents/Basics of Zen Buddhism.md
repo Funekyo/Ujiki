@@ -100,16 +100,17 @@ Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns
 
 **Zazen** (坐禅) means “seated meditation”. Here's *zazen* in Dōgen's own words:
 
-> *身相既調欠氣一息左右搖振兀兀坐定思量箇不思量底*  
-> *不思量底如何思量非思量此乃坐禪之要術也*  
-> *所謂坐禪非習禪也唯是安樂之法門也究盡菩提之修證也*  
+> 身相既調欠氣一息左右搖振兀兀坐定思量箇不思量底  
+> 不思量底如何思量非思量此乃坐禪之要術也  
+> 所謂坐禪非習禪也唯是安樂之法門也究盡菩提之修證也  
 >
 > *“Tune into your body. Let go of your breath.*  
 > *Sway left and right, then sit upright like a rock.*  
 > *Trace the untraced.*
 >
-> *How you trace the untraced—*  
-> *is not tracing 'This is the essential art of Zazen.'*
+> *How do you trace the untraced?*
+> *Not by tracing it—*  
+> *this is the essential art of Zazen.*
 >  
 > *What's called zazen is the not a meditation exercise—*  
 > *just so the truth gate of joyful ease,*  
