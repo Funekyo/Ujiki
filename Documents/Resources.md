@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76b38aa4-6cfa-492d-bf90-a7a2b4a61446)## Main Reference: *"Wisdom Within Words"* by Stephen Heine
+## Main Reference: *"Wisdom Within Words"* by Stephen Heine
 
 Heine's work remains the only comprehensive work of Dōgen's Chinese poetry in English. While it's an invaluable research and resource, I find myself disagreeing with his readings quite a lot—not to mention aesthethic differences. :)
 
