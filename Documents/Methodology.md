@@ -68,9 +68,9 @@ Here's the poem:
 
 </details>
 
-## Chinese Language Tools
+## Various Chinese Language Tools
 
-Chinese related tools to deciphering the texts:
+Chinese related tools I use to decipher the texts:
 
 ### [A Primer in Chinese Buddhist Writings](https://religiousstudies.stanford.edu/primer-chinese-buddhist-writings)
 
