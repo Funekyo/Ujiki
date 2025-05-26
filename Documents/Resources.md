@@ -1,4 +1,4 @@
-## Main Reference: *"Wisdom Within Words"* by Stephen Heine
+![image](https://github.com/user-attachments/assets/76b38aa4-6cfa-492d-bf90-a7a2b4a61446)## Main Reference: *"Wisdom Within Words"* by Stephen Heine
 
 Heine's work remains the only comprehensive work of Dōgen's Chinese poetry in English. While it's an invaluable research and resource, I find myself disagreeing with his readings quite a lot—not to mention aesthethic differences. :)
 
@@ -45,6 +45,11 @@ Here's the poem:
 [INSERT POEM HERE]
 ```
 
+</details>
+
+<details>
+<summary><strong>Image Generator Prompt</strong></summary>
+Please give me 3 sumi-e & watercolor painting concepts based on the poem we just worked on. I want cinematic composition, poetic resonance, and detailed visual cues—paintings that interpret the poem's emotional, philosophical, and seasonal tones. Kindly explain why you chose the motifs you do that match the poem's symbolism and exposition.
 </details>
 
 <details>
