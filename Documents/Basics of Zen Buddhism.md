@@ -118,8 +118,6 @@ Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns
 >  
 > — *Dōgen, Fukanzazengi*
 
-*(This passage is dense and ripe with interpretive choices. For an expansion of my translation choices, feel free to check [here](https://github.com/Funekyo/Ujiki/blob/main/Documents/%E4%B8%8D%E6%80%9D%E9%87%8F%E5%BA%95.md).)*
-
 These days, “Zen” is as likely to brand a bar of soap or a minimalist furniture line as it is to describe a 13th-century Japanese monastic.
 
 If nothing else, its journey from *kōan* stories to consumer packaging proves the Buddha was right about impermanence.
