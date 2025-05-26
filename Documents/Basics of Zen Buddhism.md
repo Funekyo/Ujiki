@@ -105,18 +105,19 @@ Dōgen (1200–1253), founder of the Sōtō school, studies in China and returns
 > *所謂、坐禪非習禪也、唯是安樂之法門也、究盡菩提之修證也。*  
 >
 > *“Tune into your body. Settle your breath into a single rhythm.*  
-> *Sway left and right and then sit upright like a rock.*  
-> *Trace the untraceable.*
-> 
-> *How do you trace the untraceable?*  
-> *Not by tracing it."*  
-> *This is the essential art of zazen.*
+> *Sway left and right, then sit upright like a rock.*  
+> *Trace the untraced.*
+>
+> *How you trace the untraced is not tracing*  
+> *'This is the essential art of Zazen.'*
 >  
-> *What's called zazen is the non-practice of meditation;*  
-> *just so the truth gate of joyful ease—*
+> *What's called zazen is the not a meditation exercise—*  
+> *it's just so the truth gate of joyful ease,*  
 > *the complete practice-realisation of awakening."*  
 >  
 > — *Dōgen, Fukanzazengi*
+
+*(This passage is dense and ripe with interpretive choices. For an expansion of my translation choices, feel free to check [here](https://github.com/Funekyo/Ujiki/blob/main/Documents/%E4%B8%8D%E6%80%9D%E9%87%8F%E5%BA%95.md).)*
 
 These days, “Zen” is as likely to brand a bar of soap or a minimalist furniture line as it is to describe a 13th-century Japanese monastic.
 
