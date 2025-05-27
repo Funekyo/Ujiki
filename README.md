@@ -1,7 +1,8 @@
 # 有時記 - Ujiki
 *A personal chronicle of reimagining Dōgen's Zen poetry using legacy and AI tools for linguistic analysis and translation.*
 
-![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/62796452-9db6-4c23-8bf8-8fb1776b280e)
+![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/29137bbf-ce62-4379-a678-3924822ebbfc)
+
 
 
 ## 🌸 introduction
