@@ -44,7 +44,7 @@ While it is difficult to find doctrinal unity across Buddhist traditions, most a
 - **Anitya** — all *dharmā* are **impermanent**.  
 - **Duḥkha** — all *saṃskārā* are **unsatisfactory**.
 
-*Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”). It should be obvious that all these readings are in conflict with one another.
+*Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”). These ideas seem hard to reconcile with one another. 
 
 *Anitya* is often reduced to “everything changes,” which oversimplifies both its scope and its implications.
 
