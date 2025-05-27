@@ -1,4 +1,9 @@
 > **閑居偶作**  
+> 雙忘取舍思翛然  
+> 萬物同時現在前  
+> 佛法從今心旣盡  
+> 身儀向後且隨緣  
+>
 > **An Idle Moment’s Verse I**  
 > *Drifting in stillness with gain and loss both cast aside,*  
 > *Ten thousand things appear in the ever-present tide.*  
@@ -7,6 +12,9 @@
 
 ![image](https://github.com/user-attachments/assets/9657f4f5-cdc1-404a-add8-b0deb956bb94)
 
+
+<details>
+<summary><strong>Glossary</strong></summary>
 
 #### Name
 | 閑 | 居 | 偶 | 作 |
@@ -47,3 +55,5 @@
 | しん | ぎ | こう | ご | しょ | ずい | えん |
 | shin | gi | kō | go | sho | zui | en |
 | body | conduct | toward | after | and | follow | condition |
+
+</details>
