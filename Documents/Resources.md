@@ -61,7 +61,7 @@ Please give me 3 sumi-e & watercolor painting concepts based on the poem we just
 <summary><strong>Chinese/Japanese/English Glossary Sheet Creator Prompt</strong></summary>
 
 ```markdown
-Please create an Excel document for the following Chinese poem, one row per Chinese character or word, not by line. The columns should be formatted like this:
+Please create a markdown table I can paste into GitHub for the following Chinese poem, one row per Chinese character or word, not by line. The columns should be formatted like this:
 
 Row 1: Chinese characters for first line  
 Row 2: Pinyin 
