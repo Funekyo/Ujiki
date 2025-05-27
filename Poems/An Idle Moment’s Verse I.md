@@ -12,6 +12,9 @@
 
 ![image](https://github.com/user-attachments/assets/9657f4f5-cdc1-404a-add8-b0deb956bb94)
 
+### Notes
+
+Took quite a bit of liberties with 1st and 4th lines, rendering the idea in a poetic language.
 
 <details>
 <summary><strong>Glossary</strong></summary>
