@@ -35,8 +35,8 @@ Each entry includes:
 
 - The original Chinese
 - A metrical English offering in rhyme—not definitive, but momentary
-- A glossary of all characters & compounds
-- Variant renderings via language models
+- A visual representation
+- A glossary of all characters
 - Deviances from contemporary translations
 - Notes on ambiguity and poetics
 
