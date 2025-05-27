@@ -5,7 +5,7 @@
 > 深草閑居夜雨聲  
 >
 > **An Idle Moment’s Verse V**  
-> Life and death pitiful like clouds changing in a stream,*
+> Life and death pitiful like clouds changing in a stream,*  
 > Losing the path to find the way while treading the dream.*  
 > After the awakening—only one thing remains,*  
 > The sound of deep grass in secret meeting with night rains.*  
