@@ -1,4 +1,4 @@
-## Basics of Zen Buddhism
+## How I Read Zen
 
 ![Dharmachakra in the Sand](https://github.com/user-attachments/assets/e4c48c02-fae5-4cc4-a559-1db2d2242d61)
 
