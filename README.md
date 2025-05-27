@@ -42,7 +42,7 @@ Each entry includes:
 
 ## 📚 documentation
 
-- [Basics of Zen Buddhism](https://github.com/Funekyo/Ujiki/blob/main/Documents/Basics%20of%20Zen%20Buddhism.md) — Essential terms, concepts, and doctrinal background
+- [Basics of Zen Buddhism](https://github.com/Funekyo/Ujiki/blob/main/Documents/How%20I%20Read%20Zen.md) — Essential terms, concepts, and doctrinal background
 - [Resources](https://github.com/Funekyo/Ujiki/blob/main/Documents/Resources.md) — Legacy references, AI toolchain, prompt designs 
 
 LINKS BELOW ARE EMPTY PLACEHOLDERS
