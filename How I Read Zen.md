@@ -50,7 +50,7 @@ While it is difficult to find doctrinal unity across Buddhist traditions, most a
 
 Curiously, *dharmā* are said to be not-self and impermanent, while *saṃskāra* are said to be *duḥkha*. 
 
-*Saṃskāra* is a richly layered term. In its pre-Buddhist, Brahmanical usage, it referred to ritual 'gatherings' where specific *karmas* (actions) were performed (both the word *saṃskāra* and *karma* share the same *karoti* root). 
+*Saṃskāra* is a richly layered term. In its pre-Buddhist, Brahmanical usage, it referred to ritual 'gatherings' where specific *karmas* (actions) were performed (both the word *saṃskāra* and *karma* share the same *√kar* root). 
 
 Over time, this sense of 'putting together' or 'conditioning' was abstracted. In Buddhist usage, it evolved to mean 'constructs,' 'fabrications,' or even 'volitional formations,' depending on context.
 
