@@ -1,5 +1,5 @@
 # 有時記 - Ujiki
-*A personal chronicle of reimagining Dōgen's Zen poetry using legacy and AI tools for linguistic analysis and translation.*
+*A personal chronicle of reimagining Dōgen's Zen poetry*
 
 ![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/db95704b-40af-4df5-8d3f-d7367d17d339)
 
@@ -10,19 +10,21 @@
 
 ***有時記 ujiki*** - *"chronicles of time being for a while"*
 
-**Welcome!** This project explores how AI tools can assist in reading, translating, and reflecting on Zen Master Dōgen’s poetry—without replacing human interpretation. It tests how machines can support precision, ambiguity, and presence within poetic language.
+**Welcome!** 
 
-Through poetry, I focus on virtue, linguistic analysis, structured data output, translation, and verbal & visual creative rendering—all for unearthing ancient stillness in the turmoil of the now.
+This is a documentation and presentation of how I render Zen Master Dōgen's poetry. 
 
-I treat LLMs as automation tools for structural tasks (flashcards, spreadsheets, and similar tools) but not for automating understanding. There, I test its application as a lens to support human insight, poetic presence, and creative work.
+By using legacy sources and AI tools for my renderings, I focus on virtue, linguistic analysis, structured data output, translation, and verbal & visual creative rendering—all for cultivating stillness in the turmoil of the now.
 
-I treat AI is symbolically as an assistant, as a way to explore semantic space through prompt and response, grounded in the dialogue between the user and the data of collective human language.
+I treat LLMs as automation tools for structural tasks (flashcards, spreadsheets, and similar tools) but not for automating understanding. There, I test its application as a lens to support human insight, poetic presence, and creative work—without replacing personal intimacy.
 
-I compare AI-generated responses with human references—beyond redundancy—to observe where they converge and diverge. I then merge these insights into poetry that resonates with the Dharma as I understand it.
+I compare AI-generated responses with human references—beyond redundancy—to observe where they converge and diverge. I then merge these insights into poetry that channels the Dharma as I understand it.
 
 In addition to poetic musings, you will also find meta-articles exploring Dōgen, Zen Buddhism, and ethics of AI, along with the tools I've built. 
 
-Each poem is a site of recursive, temporal, and ever-whimsical failure. I hope they will give you a reason to pause and breathe in joyful ease. :)
+Each poem is a site of recursive, temporal, and ever-whimsical failure. 
+
+I hope they will give you a reason to pause and breathe in joyful ease. :)
 
 > *"I relay to the east the sacred way of elders from the west:*  
 > *Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
