@@ -3,6 +3,10 @@
 
 ![Brush-drawn character scroll representing "Ujiki"](https://github.com/user-attachments/assets/db95704b-40af-4df5-8d3f-d7367d17d339)
 
+> *"I relay to the east the sacred way of elders from the west:*  
+> *Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
+> *The red dust of the everyday affairs cannot reach here by flight*  
+> *To my grass hut in the depths of the mountain on this snowy night."*
 
 ## 🌸 introduction
 
@@ -25,11 +29,6 @@ In addition to poetic musings, you will also find meta-articles exploring Dōgen
 Each poem is a site of recursive, temporal, and ever-whimsical failure. 
 
 I hope they will give you a reason to pause and breathe in joyful ease. :)
-
-> *"I relay to the east the sacred way of elders from the west:*  
-> *Fishing the moon, plowing the clouds, admiring the ancient tempest;*  
-> *The red dust of the everyday affairs cannot reach here by flight*  
-> *To my grass hut in the depths of the mountain on this snowy night."*
 
 ## 📄 format
 
