@@ -20,14 +20,6 @@ Despite the reverence this sūtra receives, many Buddhists today defer unquestio
 
 ---
 
-Buddhism begins as an Indian ascetic's attempt to diagnose and let go of **duḥkha**. 
-
-That’s where consensus ends.
-
-The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. The word in its literal sense describes a misaligned chariot axle, and so the word is a metaphor for a rough, unstable ride. This implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness.
-
----
-
 Buddha teaches us the **dharma**.
 
 What *dharma* means is vague, and highly depends on the context. It may refer to "reality", "the truth", "(nature's) law", "phenomenon", or "principle"—except when it's used to mean *the word of the Buddha* explicitly in the monastic code.
@@ -38,23 +30,35 @@ What *dharma* means is vague, and highly depends on the context. It may refer to
 
 ---
 
+Buddhism begins as an Indian ascetic's attempt to diagnose and let go of **duḥkha**. 
+
+That’s where consensus ends.
+
+The translation for *duḥkha* has ossified as “suffering”, though this definition is rightly contested. The word in its literal sense describes a misaligned chariot axle, and so the word is a metaphor for a rough, unstable ride. This implication is less about pain, and more about unreliability, structural friction, or unsatisfactoriness. Therefore **friction** remains my preferred English rendering.
+
+---
+
 While it is difficult to find doctrinal unity across Buddhist traditions, most agree on the three marks of conditioned existence:
 
+- **Duḥkha** — all *saṃskārā* are **frictive**.
 - **Anātman** — all *dharmā* are **not-self**.  
-- **Anitya** — all *dharmā* are **impermanent**.  
-- **Duḥkha** — all *saṃskārā* are **unsatisfactory**.
-
-*Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”). These ideas seem hard to reconcile with one another. 
-
-*Anitya* is often reduced to “everything changes,” which oversimplifies both its scope and its implications.
-
-Curiously, *dharmā* are said to be not-self and impermanent, while *saṃskāra* are said to be *duḥkha*. 
+- **Anitya** — all *dharmā* are **unstable**.
 
 *Saṃskāra* is a richly layered term. In its pre-Buddhist, Brahmanical usage, it referred to ritual 'gatherings' where specific *karmas* (actions) were performed (both the word *saṃskāra* and *karma* share the same *√kar* root). 
 
 Over time, this sense of 'putting together' or 'conditioning' was abstracted. In Buddhist usage, it evolved to mean 'constructs,' 'fabrications,' or even 'volitional formations,' depending on context.
 
+*Anātman* can be read epistemically (“No law explains a self”), phenomenologically (“No phenomenon is self”), or ontologically (“There is no self”). These ideas seem hard to reconcile with one another. 
+
+*Anitya* is often reduced to “everything changes,” which oversimplifies both its scope and its implications. "Impermanence" flattens the meaning somehow. It kind of points to a binary "existing / non-existing", while the word also carries the tones of "instability".
+
+Curiously, *dharmā* are said to be not-self and impermanent, while *saṃskāra* are said to be *duḥkha*. 
+
 It appears that some things are *dharmā*, while some things are *saṃskārā*. The significance of this distinction remains unresolved across traditions.
+
+I choose to read the first statement as a remark on the nature of friction in experience. 
+
+Then the other two marks can be seen as epistemic remarks, about how *self* is conceptually undefinable, and that no concept is a stable referrent. 
 
 ---
 
